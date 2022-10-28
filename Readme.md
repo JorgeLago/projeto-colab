@@ -3,6 +3,7 @@
 Projeto Collab usando:<br>
 <br>
 `Java`: Versão 17<br>
+`Python`: Versão 3.7.2<br>
 `VsCode`: Versão<br>
 `Spring`: versão 
 
